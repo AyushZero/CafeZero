@@ -13,7 +13,7 @@ Schedule(EmployeeID, ShiftID, LocationID, ShiftTimings)
 Loyalty(LoyaltyID, CustomerID, PointsRedeemed, PointsEarned)
 Coffee_Supply(SupplyID, LocationID, RoastDate, Quantity)
 
-**Primary Command**  
+# **Primary Command**  
 CREATE DATABASE IF NOT EXISTS Cafe;  
 USE Cafe;
 
