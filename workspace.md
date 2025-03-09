@@ -1,4 +1,4 @@
-#SQL Schema
+# SQL Schema
 
 Location(LocationID, City, Employees, Address)
 Customer(CustomerID, LoyaltyID, PhoneNo, Name, Password, Email)
